@@ -6,8 +6,8 @@
 💬 Exploring scalable cross-platform solution or integrating AI into your apps? Let’s connect and share insights.
 
 🌐 Socials:
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-MaviaZindani-blue?logo=linkedin)](https://linkedin.com)]
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white)](mailto:your@email.com)]
+[[![LinkedIn](https://img.shields.io/badge/Linkedin-8A2BE2)](https://www.linkedin.com/in/mavia-zindani-89826723b/)]
+[![Email](https://img.shields.io/badge/Email-red)](maviazindaninfo@gmail.com)]
 
 💻 Tech Stack:
 Python Dart Firebase AWS Cloudflare Flutter MongoDB Figma Git
