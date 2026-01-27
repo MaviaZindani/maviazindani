@@ -6,7 +6,7 @@
 💬 Exploring scalable cross-platform solution or integrating AI into your apps? Let’s connect and share insights.
 
 🌐 Socials:
-Instagram LinkedIn email
+[![Instagram](https://img.shields.io/badge/Carpool-App-blue)]
 
 💻 Tech Stack:
 Python Dart Firebase AWS Cloudflare Flutter MongoDB Figma Git
