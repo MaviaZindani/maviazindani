@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api"/>
+</p>
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9b59b6&height=200&section=header&text=Mavia%20Zindani&fontSize=40&animation=fadeIn)
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTQwNG4yZWxxNmljc2tpYTk3bHNxendybWxnb2ZucnZiaXhhaDF5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" />
