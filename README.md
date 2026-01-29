@@ -25,7 +25,7 @@
 
 📊 GitHub Stats:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MaviaZindani&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaviaZindani&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=MaviaZindani&theme=radical" />
 </p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaviaZindani&show_icons=true&theme=radical)
