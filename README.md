@@ -24,5 +24,5 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-blue?logo=cloudflare)
 
 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaviaZindani&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=MaviaZindani&theme=dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaviaZindani&show_icons=true&theme=radical)
