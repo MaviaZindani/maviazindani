@@ -3,14 +3,19 @@
 
 👋 Hi, I'm Mavia Zindani!
 🎓 Software Engineering Student | 💻 Cross-Platform App Developer
-💬 Exploring scalable cross-platform solution or integrating AI into your apps? Let’s connect and share insights.
+💬 Exploring scalable cross-platform solution or integrating AI into your apps? contect me +923350772255.
 
 🌐 Socials:
-[[![LinkedIn](https://img.shields.io/badge/Linkedin-8A2BE2)](https://www.linkedin.com/in/mavia-zindani-89826723b/)]
+[![LinkedIn](https://img.shields.io/badge/Linkedin-8A2BE2)](https://www.linkedin.com/in/mavia-zindani-89826723b/)]
 [![Email](https://img.shields.io/badge/Email-red)](maviazindaninfo@gmail.com)]
 
+🚀 Startups:
+[![Khelkud](https://img.shields.io/badge/KhelKud-75EF26)](https://www.khel-kud.com/)]
+[![fast Carpool](https://img.shields.io/badge/Fast%20Carpool-2463EA)](https://www.fastcarpool.app/)]
+
 💻 Tech Stack:
-Python Dart Firebase AWS Cloudflare Flutter MongoDB Figma Git
+[![Python](https://img.shields.io/badge/75EF26)]
+ Dart Firebase AWS Cloudflare Flutter MongoDB Figma Git
 
 📊 GitHub Stats:
 
