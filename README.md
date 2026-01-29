@@ -6,13 +6,13 @@
 💬 Exploring scalable cross-platform solution or integrating AI into your apps? contect me +923350772255.
 
 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-red)](maviazindaninfo@gmail.com)]
-[![LinkedIn](https://img.shields.io/badge/Linkedin-8A2BE2)](https://www.linkedin.com/in/mavia-zindani-89826723b/)]
-[![Instagram](https://img.shields.io/badge/Instagram-EA5A50)](https://www.instagram.com/maviazindani?igsh=bWE4MmV2dzhibDlq)]
+[![Email](https://img.shields.io/badge/Email-red)](maviazindaninfo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-8A2BE2)](https://www.linkedin.com/in/mavia-zindani-89826723b/)
+[![Instagram](https://img.shields.io/badge/Instagram-EA5A50)](https://www.instagram.com/maviazindani?igsh=bWE4MmV2dzhibDlq)
 
 🚀 Startups:
-[![Khelkud](https://img.shields.io/badge/KhelKud-75EF26)](https://www.khel-kud.com/)]
-[![fast Carpool](https://img.shields.io/badge/Fast%20Carpool-2463EA)](https://www.fastcarpool.app/)]
+[![Khelkud](https://img.shields.io/badge/KhelKud-75EF26)](https://www.khel-kud.com/)
+[![fast Carpool](https://img.shields.io/badge/Fast%20Carpool-2463EA)](https://www.fastcarpool.app/)
 
 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/Git-blue?logo=git)
@@ -24,5 +24,6 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-blue?logo=cloudflare)
 
 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com?user=MaviaZindani&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MaviaZindani&theme=dark&v=1)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaviaZindani&show_icons=true&theme=radical)
