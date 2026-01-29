@@ -5,6 +5,8 @@
 🎓 Software Engineering Student | 💻 Cross-Platform App Developer
 💬 Exploring scalable cross-platform solution or integrating AI into your apps? contect me +923350772255.
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9b59b6&height=200&section=header&text=Carpool&fontSize=40&animation=fadeIn)
+
 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/Linkedin-8A2BE2)](https://www.linkedin.com/in/mavia-zindani-89826723b/)]
 [![Email](https://img.shields.io/badge/Email-red)](maviazindaninfo@gmail.com)]
@@ -18,6 +20,5 @@
  Dart Firebase AWS Cloudflare Flutter MongoDB Figma Git
 
 📊 GitHub Stats:
-
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaviaZindani&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaviaZindani&theme=dark)
