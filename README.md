@@ -87,13 +87,21 @@ Mobile developer with 4 years of experience taking applications from first commi
 
 ### GitHub Activity
 
+<!--
+  NOTE: these cards come from a shared public service that often hits its rate
+  limit, which makes the images break. To make them permanent, self-host
+  github-readme-stats on your own free Vercel account and replace
+  "github-readme-stats.vercel.app" below with your own deployment URL.
+  Guide: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaviaZindani&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaviaZindani&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaviaZindani&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaviaZindani&layout=compact&hide_border=true&theme=github_dark&langs_count=8&cache_seconds=86400" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MaviaZindani&hide_border=true&theme=github-dark" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaviaZindani&hide_border=true&theme=github-dark" alt="GitHub streak"/>
 </p>
 
 ---
